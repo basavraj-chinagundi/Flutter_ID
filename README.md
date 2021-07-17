@@ -1,4 +1,4 @@
-# A simple ID_CARD
+# ID_CARD
 
 Flutter project.
 
